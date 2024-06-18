@@ -1,0 +1,7 @@
+patch_len: 16
+pad: 4
+img_size: 424
+path: 16len
+bsz: 256
+num_workers: 0
+shuffle: true
